@@ -7,6 +7,7 @@ class Solution:
                 j += 1
         return j
 
+#Example of Usage
 solution = Solution()
 nums = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
 print("List:", nums)
