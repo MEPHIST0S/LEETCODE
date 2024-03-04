@@ -15,4 +15,4 @@ class Solution:
 #Example of Usage
 operations = ["5", "2", "C", "D", "+"]
 solution = Solution()
-print solution.calPoints(operations) 
+print(solution.calPoints(operations))
