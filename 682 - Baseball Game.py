@@ -12,7 +12,7 @@ class Solution:
                 ans.append(int(i))
         return sum(ans)
 
-#Example of Usage
+#Example of Usage!
 operations = ["5", "2", "C", "D", "+"]
 solution = Solution()
 print(solution.calPoints(operations))

@@ -7,7 +7,7 @@ class Solution(object):
                 j += 1
         return j
 
-# Example usage:
+# Example usage!
 # Create an instance of Solution
 sol = Solution()
 # Input list

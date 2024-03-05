@@ -7,7 +7,7 @@ class Solution(object):
                 return [save[diff], i]
             save[nums[i]] = i
 
-#Example of Usage
+#Example of Usage!
 solution = Solution()
 nums = [2, 7, 11, 15]
 target = 9
