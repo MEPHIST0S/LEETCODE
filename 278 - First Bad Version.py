@@ -14,3 +14,5 @@ class Solution(object):
                 left = mid + 1
 
         return left
+    
+n = 5
