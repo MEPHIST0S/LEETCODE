@@ -22,6 +22,7 @@ class Solution(object):
             current = current.next
         return head.next
 
+#Example of Usage!
 l1 = ListNode(2)
 l1.next = ListNode(4)
 l1.next.next = ListNode(3)
