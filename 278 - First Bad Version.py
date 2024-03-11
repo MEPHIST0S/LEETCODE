@@ -15,6 +15,7 @@ class Solution(object):
 
         return left
 
+#Example of Usage!
 if __name__ == "__main__":
     n = int(input("Введите общее количество версий: "))
     bad_version = int(input("Введите номер первой плохой версии: "))
