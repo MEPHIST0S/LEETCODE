@@ -19,7 +19,7 @@ print(solution.calPoints(operations))
 
 """
 Time Complexity:
-    Time complexity is linear because the algorithm iterates through each operation in the input list once.
+    O(n) - Time complexity is linear because the algorithm iterates through each operation in the input list once.
 Space Complexity:
-    Space complexity is also linear because the additional space usage scales with the number of operations in the input list.
+    O(n) - Space complexity is also linear because the additional space usage scales with the number of operations in the input list.
 """
