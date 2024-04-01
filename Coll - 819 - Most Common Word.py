@@ -30,3 +30,8 @@ solution = Solution()
 paragraph = "Hello, nice to meet you today, because today weather is nice"
 banned = "nice"
 print(solution.mostCommonWord(paragraph, banned))
+
+"""
+Time Complexity - O(n)
+Space Complecity - O(1)
+"""
