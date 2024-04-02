@@ -36,3 +36,7 @@ class AlterSolution(object):
             list1.next = self.mergeTwoLists2(list1.next, list2)
         return list1 or list2
     
+"""
+Time Complexity = O(n)
+Space Complexity = O(n) Additional Space for creation of list where we have the merge of previous 2
+"""

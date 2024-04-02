@@ -17,3 +17,8 @@ class AlternativeSol(object):
         length = len(nums)
         total = length * (length + 1)/2
         return total - sum(nums)
+    
+"""
+Time Complexity = O(n)
+Space Complexity = O(1)
+"""

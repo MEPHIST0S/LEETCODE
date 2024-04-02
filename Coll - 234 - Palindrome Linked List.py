@@ -21,3 +21,8 @@ l2 = l1.next
 l2.next = ListNode(2)
 l2.next.next = ListNode(1)
 print(solution.isPalindrome(l1))
+
+"""
+Time Complexity = O(n)
+Space Complexity = O(n)
+"""

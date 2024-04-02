@@ -39,3 +39,8 @@ current = result
 while current:
     print(current.val),
     current = current.next
+    
+"""
+Time Complexity = O(n)
+Space Complexity = O(n) Additional Space for creation of list where we have the sum of previous 2
+"""

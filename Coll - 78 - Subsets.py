@@ -15,4 +15,8 @@ class Solution(object):
 solution = Solution()
 nums = [1, 2, 3]
 print(solution.subset(nums))
-        
+
+"""
+Time Complexity = O(2^n)
+Space Complexity = O(2^n)
+"""
