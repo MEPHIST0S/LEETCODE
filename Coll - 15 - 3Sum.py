@@ -15,8 +15,8 @@ class Solution(object):
             while j<k:
                 temp = nums[i] + nums[j] + nums[k]
                 if temp == 0:
-                    j+=1
                     ans.add((nums[i], nums[j], nums[k]))
+                    j+=1
                 elif temp > 0:
                     k-=1
                 else:
