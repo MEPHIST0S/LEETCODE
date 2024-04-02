@@ -25,7 +25,7 @@ class Solution(object):
 
 #or
 class BruetForceSolution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    def threeSum(self, nums):
         ans=set()
         nums.sort()
         n=len(nums)
